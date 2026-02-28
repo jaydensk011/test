@@ -1,2 +1,2 @@
-# test
-# this is a testing file
+test
+this is a testing repository
